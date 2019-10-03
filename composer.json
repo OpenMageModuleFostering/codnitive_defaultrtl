@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Codnitive_Defaultrtl",
+    "name": "OpenMageModuleFostering\/Codnitive_Defaultrtl",
     "type": "magento-module",
     "license": "GNU-General-Public-License,-version-3-(GPLv3)",
     "homepage": "",
     "description": "This is Right to Left edition of Magento default Theme.",
     "authors": [
-    {
-        "name": "Hassan Barza",
-        "email": "support@codnitive.com"
-    }
-],
+        {
+            "name": "Hassan Barza",
+            "email": "support@codnitive.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
